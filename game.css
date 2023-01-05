@@ -1,0 +1,18 @@
+.alignbutton{
+    text-align: center;
+  }
+  button{
+    background-color: yellow;
+    height:35px;
+    width:150px;
+    border-radius: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
+button:hover{
+    background-color: aliceblue;
+}
+h1{
+  text-align: center;
+  background-color: whitesmoke;
+}
